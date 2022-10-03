@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="66px" viewBox="0 0 80 66" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47 (45396) - http://www.bohemiancoding.com/sketch -->
+    <title>tooltip-selector-bg</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Editor-UI" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="tooltip-selector-bg">
+            <polygon id="Path" fill="#EBEBEB" points="6 6 74 6 74 60 6 60"></polygon>
+            <polygon id="Rectangle-20-Copy-5" fill="#F8F8F8" fill-rule="nonzero" points="7 59 73 59 73 7 7 7"></polygon>
+            <polygon id="Rectangle-20-Copy-6" fill="#EBEBEB" fill-rule="nonzero" points="79 4 80 5 75 5 75 0 76 1 76 4"></polygon>
+            <polygon id="Rectangle-20-Copy-7" fill="#EBEBEB" fill-rule="nonzero" points="1 4 0 5 5 5 5 0 4 1 4 4"></polygon>
+            <polygon id="Rectangle-20-Copy-8" fill="#EBEBEB" fill-rule="nonzero" points="79 62 80 61 75 61 75 66 76 65 76 62"></polygon>
+            <polygon id="Rectangle-20-Copy-9" fill="#EBEBEB" fill-rule="nonzero" points="4 65 5 66 5 61 0 61 1 62 4 62"></polygon>
+        </g>
+    </g>
+</svg>

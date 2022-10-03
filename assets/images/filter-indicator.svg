@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="155px" height="155px" viewBox="0 0 155 155" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 4</title>
+    <defs>
+        <filter x="-29.1%" y="-11.6%" width="158.1%" height="123.2%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="16" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="16" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.4 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="feature--studio--filter" transform="translate(-1999.000000, -266.000000)">
+            <g id="Group-3" transform="translate(520.000000, 220.000000)">
+                <g id="apty-assist-studio__toolset-copy-6" filter="url(#filter-1)" transform="translate(1260.000000, 0.000000)">
+                    <g id="apps" transform="translate(-0.000000, 30.000000)">
+                        <g id="studio/search-bar+filter" transform="translate(0.000000, 70.000000)">
+                            <g id="Group-22" transform="translate(280.000000, 10.000000)">
+                                <g id="Group-4" transform="translate(7.000000, 4.000000)">
+                                    <g id="Group-15" opacity="0.400000006" transform="translate(0.000000, 3.000000)">
+                                        <rect id="Rectangle" fill="#D8D8D8" opacity="0" x="0" y="0" width="16" height="16"></rect>
+                                        <rect id="Rectangle" fill="#000000" x="2" y="4" width="12" height="1" rx="0.5"></rect>
+                                        <rect id="Rectangle" fill="#000000" x="4" y="8" width="8" height="1" rx="0.5"></rect>
+                                        <rect id="Rectangle" fill="#000000" x="6" y="12" width="4" height="1" rx="0.5"></rect>
+                                    </g>
+                                    <circle id="Oval-Copy" fill="#03C1F7" cx="16" cy="3" r="3"></circle>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

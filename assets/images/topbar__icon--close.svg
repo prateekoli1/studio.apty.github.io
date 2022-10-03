@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="12px" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53 (72520) - https://sketchapp.com -->
+    <title>topbar__icon--close</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Editor-Electron" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="desktop-Editor/application-bar" transform="translate(-298.000000, -9.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <g id="Group-27">
+                <g id="controls" transform="translate(245.000000, 6.000000)">
+                    <polygon id="topbar__icon--close" points="59 7.56527309 63.5652731 3 65 4.43472691 60.4347269 9 65 13.5652731 63.5652731 15 59 10.4347269 54.4347269 15 53 13.5652731 57.5652731 9 53 4.43472691 54.4347269 3"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

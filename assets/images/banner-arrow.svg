@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>banner-arrow</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Editor-UI:-Home" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="letzNav-start-Copy" transform="translate(-1092.000000, -591.000000)" fill="#FFFFFF">
+            <g id="Group-Copy-4" transform="translate(1080.000000, 579.000000)">
+                <path d="M19.49448,12 L20.9953515,13.5 L14.5529822,20 L20.9953515,26.5 L19.49448,28 L12.2902964,20.7071068 C11.9032345,20.3165825 11.9032345,19.6834175 12.2902964,19.2928932 L19.49448,12 Z M26.4991284,12 L28,13.5 L21.5576307,20 L28,26.5 L26.4991284,28 L19.2949448,20.7071068 C18.907883,20.3165825 18.907883,19.6834175 19.2949448,19.2928932 L26.4991284,12 Z" id="banner-arrow"></path>
+            </g>
+        </g>
+    </g>
+</svg>

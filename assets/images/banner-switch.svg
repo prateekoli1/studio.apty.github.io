@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>banner-switch</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Editor-UI:-Home" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="letzNav-start-Copy" transform="translate(-1090.000000, -709.000000)" fill="#FFFFFF">
+            <path d="M1099,721 L1095,721 L1095,724 L1090,719 L1095,714 L1095,717 L1099,717 L1099,711 C1099,709.895431 1099.89543,709 1101,709 L1108,709 C1109.10457,709 1110,709.895431 1110,711 L1110,727 C1110,728.104569 1109.10457,729 1108,729 L1101,729 C1099.89543,729 1099,728.104569 1099,727 L1099,721 Z M1101,711 L1101,727 L1108,727 L1108,711 L1101,711 Z" id="banner-switch"></path>
+        </g>
+        <g id="Page"></g>
+    </g>
+</svg>

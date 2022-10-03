@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="14px" viewBox="0 0 14 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47 (45396) - http://www.bohemiancoding.com/sketch -->
+    <title>fullscreen-icon-narrow</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="sidebar/element-selector" transform="translate(-222.000000, -13.000000)" fill="#000000">
+            <g id="Group-2-Copy-3" transform="translate(209.000000, 0.000000)">
+                <path d="M13,23.9921875 L13,22 L18,22 L18,27 L16.0078125,27 L16.0078125,23.9921875 L13,23.9921875 Z M16.0078125,16.0078125 L16.0078125,13 L18,13 L18,18 L13,18 L13,16.0078125 L16.0078125,16.0078125 Z M22,27 L22,22 L27,22 L27,23.9921875 L23.9921875,23.9921875 L23.9921875,27 L22,27 Z M23.9921875,16.0078125 L27,16.0078125 L27,18 L22,18 L22,13 L23.9921875,13 L23.9921875,16.0078125 Z" id="fullscreen-icon-narrow"></path>
+            </g>
+        </g>
+    </g>
+</svg>

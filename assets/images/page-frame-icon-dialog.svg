@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="33px" height="27px" viewBox="0 0 33 27" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53 (72520) - https://sketchapp.com -->
+    <title>page-frame-icon-dialog</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Editor-UI:-Frames" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="page-frame-icon-dialog">
+            <path d="M6,0 L27,0 C30.3137085,-4.4408921e-16 33,2.6862915 33,6 L33,21 C33,24.3137085 30.3137085,27 27,27 L6,27 C2.6862915,27 4.4408921e-16,24.3137085 0,21 L0,6 C-4.4408921e-16,2.6862915 2.6862915,4.4408921e-16 6,0 Z" id="Rectangle-6" fill="#000000" fill-rule="nonzero" opacity="0.5"></path>
+            <path d="M6,3 C4.34314575,3 3,4.34314575 3,6 L3,21 C3,22.6568542 4.34314575,24 6,24 L27,24 C28.6568542,24 30,22.6568542 30,21 L30,6 C30,4.34314575 28.6568542,3 27,3 L6,3 Z" id="Path" fill="#FFFFFF"></path>
+            <polygon id="Combined-Shape" fill="#000000" opacity="0.200000003" points="11 11 11 24 9 24 9 11 3 11 3 9 30 9 30 11"></polygon>
+        </g>
+    </g>
+</svg>

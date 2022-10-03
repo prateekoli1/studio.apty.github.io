@@ -1,0 +1,7 @@
+{
+  "backendUrl": "https://qa.apty.io",
+  "accountsBackendUrl": "https://qa.apty.io",
+  "insightsBackendUrl": "https://qa.apty.io",
+  "isFreemium": false,
+  "staticServerUrl": "https://qa.apty.io"
+}

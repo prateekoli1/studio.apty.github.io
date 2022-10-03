@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>sidebar/highlight-selector/outline-icon</title>
+    <desc>Created with Sketch.</desc>
+    <g id="sidebar/highlight-selector/outline-icon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle-Copy-12" fill="#666666" x="7" y="11" width="16" height="8"></rect>
+        <rect id="Rectangle-Copy-13" fill="#FFFFFF" x="8" y="12" width="14" height="6"></rect>
+        <path d="M7,10 C6.44771525,10 6,10.4477153 6,11 L6,19 C6,19.5522847 6.44771525,20 7,20 L23,20 C23.5522847,20 24,19.5522847 24,19 L24,11 C24,10.4477153 23.5522847,10 23,10 L7,10 Z M7,8 L23,8 C24.6568542,8 26,9.34314575 26,11 L26,19 C26,20.6568542 24.6568542,22 23,22 L7,22 C5.34314575,22 4,20.6568542 4,19 L4,11 C4,9.34314575 5.34314575,8 7,8 Z" id="Rectangle-Copy-14" fill="#666666" fill-rule="nonzero"></path>
+    </g>
+</svg>

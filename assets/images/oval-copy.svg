@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Oval Copy</title>
+    <defs>
+        <filter x="-29.1%" y="-11.6%" width="158.1%" height="123.2%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="16" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="16" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.4 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="feature--studio--filter" transform="translate(-2051.000000, -321.000000)" fill="#03C1F7">
+            <g id="Group-3" transform="translate(520.000000, 220.000000)">
+                <g id="apty-assist-studio__toolset-copy-6" filter="url(#filter-1)" transform="translate(1260.000000, 0.000000)">
+                    <g id="apps" transform="translate(-0.000000, 30.000000)">
+                        <g id="studio/search-bar+filter" transform="translate(0.000000, 70.000000)">
+                            <g id="Group-22" transform="translate(280.000000, 10.000000)">
+                                <circle id="Oval-Copy" cx="23" cy="7" r="3"></circle>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

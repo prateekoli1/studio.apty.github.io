@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="15px" viewBox="0 0 16 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47 (45396) - http://www.bohemiancoding.com/sketch -->
+    <title>anchor-icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M3,11 C4.4355173,12.0440126 5.76885063,12.6792893 7,12.9058302 L7,5.82929429 C5.83480763,5.41745788 5,4.30621883 5,3 C5,1.34314575 6.34314575,0 8,0 C9.65685425,0 11,1.34314575 11,3 C11,4.30621883 10.1651924,5.41745788 9,5.82929429 L9,12.9058302 C10.2311494,12.6792893 11.5644827,12.0440126 13,11 L11,9 L16,9 L16,14 L14,12 C12,14 10,15 8,15 C5,15 2.03075109,12.02516 2,12 L0,14 L0,9 L5,9 L3,11 Z M8,4.5 C8.82842712,4.5 9.5,3.82842712 9.5,3 C9.5,2.17157288 8.82842712,1.5 8,1.5 C7.17157288,1.5 6.5,2.17157288 6.5,3 C6.5,3.82842712 7.17157288,4.5 8,4.5 Z" id="anchor-icon" fill="#000000"></path>
+    </g>
+</svg>
