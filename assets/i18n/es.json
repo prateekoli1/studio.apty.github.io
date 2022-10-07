@@ -113,7 +113,9 @@
       "continue": "Continuar",
       "downloadExtension": "Descargar extensión",
       "switchApplication": "Intercambiar aplicación",
-      "dismiss": "Despedir"
+      "dismiss": "Despedir",
+      "switchTenant": "Cambiar inquilino",
+      "openPortal": "Portal abierto"
     },
     "publishing": {
       "title": "Publicación",

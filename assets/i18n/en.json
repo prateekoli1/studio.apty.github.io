@@ -113,7 +113,9 @@
       "continue": "Continue",
       "downloadExtension": "Download Extension",
       "switchApplication": "Switch Application",
-      "dismiss": "Dismiss"
+      "dismiss": "Dismiss",
+      "switchTenant": "Switch Tenant",
+      "openPortal": "Open Portal"
     },
     "publishing": {
       "title": "Publishing",

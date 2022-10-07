@@ -113,7 +113,9 @@
       "continue": "Fortsetzen",
       "downloadExtension": "Erweiterung herunterladen",
       "switchApplication": "Anwendung wechseln",
-      "dismiss": "Entlassen"
+      "dismiss": "Entlassen",
+      "switchTenant": "Mieter wechseln",
+      "openPortal": "Portal öffnen"
     },
     "publishing": {
       "title": "Veröffentlichen",

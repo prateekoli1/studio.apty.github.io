@@ -113,7 +113,9 @@
       "continue": "Continuer",
       "downloadExtension": "Télécharger l'extension",
       "switchApplication": "Changer d'application",
-      "dismiss": "Rejeter"
+      "dismiss": "Rejeter",
+      "switchTenant": "Changer de locataire",
+      "openPortal": "Ouvrir le portail"
     },
     "publishing": {
       "title": "Édition",
